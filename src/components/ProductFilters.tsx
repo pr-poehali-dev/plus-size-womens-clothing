@@ -2,7 +2,22 @@ import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 
 const ProductFilters = () => {
-  const sizes = ["XL", "2XL", "3XL", "4XL", "5XL", "6XL"];
+  const sizes = [
+    "54",
+    "56",
+    "58",
+    "60",
+    "62",
+    "64",
+    "66",
+    "68",
+    "70",
+    "72",
+    "74",
+    "76",
+    "78",
+    "80",
+  ];
   const categories = [
     "Все товары",
     "Платья",
