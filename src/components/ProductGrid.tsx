@@ -1,5 +1,6 @@
 import ProductCard from "@/components/ProductCard";
 import ProductFilters from "@/components/ProductFilters";
+import { Button } from "@/components/ui/button";
 
 const products = [
   {
