@@ -25,8 +25,8 @@ const Hero = () => {
           </div>
           <div className="relative">
             <img
-              src="https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
-              alt="Женская одежда больших размеров"
+              src="https://cdn.poehali.dev/files/819482e4-b661-44ef-b9a7-a393b4eadd04.jpg"
+              alt="Туника больших размеров 56-78"
               className="rounded-2xl shadow-2xl w-full"
             />
             <div className="absolute -top-4 -left-4 bg-white rounded-lg p-4 shadow-lg">

@@ -17,6 +17,10 @@ const ProductFilters = () => {
     "76",
     "78",
     "80",
+    "82",
+    "84",
+    "86",
+    "88",
   ];
   const categories = [
     "Все товары",
