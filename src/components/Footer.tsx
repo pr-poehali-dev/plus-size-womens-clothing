@@ -7,7 +7,7 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div>
             <h4 className="text-2xl font-bold text-purple-400 mb-4 font-montserrat">
-              Belle Plus
+              Шикардос
             </h4>
             <p className="text-gray-300 mb-4">
               Стильная одежда больших размеров для современных женщин. Красота

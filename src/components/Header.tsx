@@ -8,7 +8,7 @@ const Header = () => {
         <div className="flex justify-between items-center h-16">
           <div className="flex items-center">
             <h1 className="text-2xl font-bold text-purple-600 font-montserrat">
-              Belle Plus
+              Шикардос
             </h1>
             <span className="ml-2 text-sm text-gray-500">Размеры XL-6XL</span>
           </div>
